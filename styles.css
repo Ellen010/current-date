@@ -89,7 +89,7 @@ select {
 }
 
 #current-date {
-  margin-top:20px;
+  margin-top:50px;
   font-size: 3rem;
   text-align: center;
   color:var(--peach);
